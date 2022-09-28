@@ -1,7 +1,7 @@
 
 // QUES LINK
 //https://www.hackerrank.com/contests/cse205-day23-24906/challenges/twoway-list-1-16856
-
+//C++
 
 #include <cmath>
 #include <cstdio>
@@ -83,3 +83,4 @@ int main() {
     }
     return 0;
 }
+
